@@ -1,4 +1,4 @@
-# AndroidImageRepresentation
+# Looking beyond Dalvik Bytecode
 
 This Repository is for Android Malware Detection based on Image Representation.
 
